@@ -1,6 +1,4 @@
 # Titanic
-The notebook performs exploratory data analysis on the titanic data set. 
-
 On the titanic data set, the notebook does exploratory data analysis. The data set was obtained from the kaggle website. 
 
 The notebook made use of several packages.
