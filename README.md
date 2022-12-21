@@ -1,5 +1,7 @@
 # Titanic
-On the titanic data set, the notebook does exploratory data analysis. The data set was obtained from the kaggle website. 
+![image](https://user-images.githubusercontent.com/91350558/208846337-e42c3563-e889-4f38-b125-3eeaf3a8c8f2.png)
+
+On the titanic data set, the notebook does exploratory data analysis. The data set was obtained from the kaggle website. 
 
 The notebook made use of several packages.
 The following packages are used:
@@ -8,7 +10,7 @@ The following packages are used:
 ### matplotlib & seaborn
 The first two packages deal with computing and data analysis, while the other two deal with data visualization.
 
-Three critical steps to follow in this EDA are 
+Three critical steps to follow in this EDA are :
 
 ####  1- Understand the data
 
